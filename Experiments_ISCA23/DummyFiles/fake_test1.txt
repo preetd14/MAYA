@@ -1,0 +1,1 @@
+this is a fake file which should be opened instead of test.txt

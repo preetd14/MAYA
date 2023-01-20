@@ -1,0 +1,6 @@
+228,1,REPLACE_RETURN,rsi,DIRECT,60
+257,5,REPLACE_ENTER,/home/preet_derasari/ImpFiles/test0.pdf,INDIRECT
+257,5,REPLACE_ENTER,/home/preet_derasari/ImpFiles/test1.pptx,INDIRECT
+257,5,REPLACE_ENTER,/home/preet_derasari/ImpFiles/test2.docx,INDIRECT
+257,5,REPLACE_ENTER,/home/preet_derasari/ImpFiles/test3.jpg,INDIRECT
+257,5,REPLACE_ENTER,/home/preet_derasari/ImpFiles/test4.txt,INDIRECT
