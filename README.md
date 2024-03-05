@@ -1,7 +1,7 @@
-# MAYA: An Efficient Hardware-based Framework for Cyber-Deception
+# MAYA: Hardware Enhanced Customizable Defenses at the User-Kernel Interface
 
 ## About
-This is the source code for MAYA as implemented in the gem5 simulator (version 22.0.0.2) (paper currently submitted to ISCA'23).
+This is the source code for MAYA as implemented in the gem5 simulator (version 22.0.0.2) (paper currently accepted to SEED'24).
 
 Some experiments to test MAYA are included in the Experiments_ISCA23 folder
 
